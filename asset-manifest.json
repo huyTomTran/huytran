@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/huytran/static/css/main.728f932a.chunk.css",
+    "main.js": "/huytran/static/js/main.d87e467b.chunk.js",
+    "main.js.map": "/huytran/static/js/main.d87e467b.chunk.js.map",
+    "runtime-main.js": "/huytran/static/js/runtime-main.c3bdfe6a.js",
+    "runtime-main.js.map": "/huytran/static/js/runtime-main.c3bdfe6a.js.map",
+    "static/js/2.421e7760.chunk.js": "/huytran/static/js/2.421e7760.chunk.js",
+    "static/js/2.421e7760.chunk.js.map": "/huytran/static/js/2.421e7760.chunk.js.map",
+    "index.html": "/huytran/index.html",
+    "static/css/main.728f932a.chunk.css.map": "/huytran/static/css/main.728f932a.chunk.css.map",
+    "static/js/2.421e7760.chunk.js.LICENSE.txt": "/huytran/static/js/2.421e7760.chunk.js.LICENSE.txt",
+    "static/media/about.8729ae3b.jpeg": "/huytran/static/media/about.8729ae3b.jpeg",
+    "static/media/avatar.bdc55b61.jpeg": "/huytran/static/media/avatar.bdc55b61.jpeg",
+    "static/media/App.scss": "/huytran/static/media/dots.943074de.svg",
+    "static/media/email.8a80ecd4.svg": "/huytran/static/media/email.8a80ecd4.svg",
+    "static/media/location.08194cba.svg": "/huytran/static/media/location.08194cba.svg",
+    "static/media/phone.da4610ad.svg": "/huytran/static/media/phone.da4610ad.svg",
+    "static/media/port1.98eb8097.jpg": "/huytran/static/media/port1.98eb8097.jpg",
+    "static/media/port2.16857e17.jpg": "/huytran/static/media/port2.16857e17.jpg",
+    "static/media/port3.b92db033.jpg": "/huytran/static/media/port3.b92db033.jpg",
+    "static/media/port4.00ce898a.jpg": "/huytran/static/media/port4.00ce898a.jpg",
+    "static/media/port5.fee1e687.jpg": "/huytran/static/media/port5.fee1e687.jpg",
+    "static/media/webapp.04a345bc.svg": "/huytran/static/media/webapp.04a345bc.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c3bdfe6a.js",
+    "static/js/2.421e7760.chunk.js",
+    "static/css/main.728f932a.chunk.css",
+    "static/js/main.d87e467b.chunk.js"
+  ]
+}
