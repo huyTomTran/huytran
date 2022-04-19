@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/huytran/static/css/main.728f932a.chunk.css",
-    "main.js": "/huytran/static/js/main.d87e467b.chunk.js",
-    "main.js.map": "/huytran/static/js/main.d87e467b.chunk.js.map",
-    "runtime-main.js": "/huytran/static/js/runtime-main.c3bdfe6a.js",
-    "runtime-main.js.map": "/huytran/static/js/runtime-main.c3bdfe6a.js.map",
-    "static/js/2.421e7760.chunk.js": "/huytran/static/js/2.421e7760.chunk.js",
-    "static/js/2.421e7760.chunk.js.map": "/huytran/static/js/2.421e7760.chunk.js.map",
+    "main.js": "/huytran/static/js/main.b869b0e7.chunk.js",
+    "main.js.map": "/huytran/static/js/main.b869b0e7.chunk.js.map",
+    "runtime-main.js": "/huytran/static/js/runtime-main.27781065.js",
+    "runtime-main.js.map": "/huytran/static/js/runtime-main.27781065.js.map",
+    "static/js/2.c289fef0.chunk.js": "/huytran/static/js/2.c289fef0.chunk.js",
+    "static/js/2.c289fef0.chunk.js.map": "/huytran/static/js/2.c289fef0.chunk.js.map",
     "index.html": "/huytran/index.html",
     "static/css/main.728f932a.chunk.css.map": "/huytran/static/css/main.728f932a.chunk.css.map",
-    "static/js/2.421e7760.chunk.js.LICENSE.txt": "/huytran/static/js/2.421e7760.chunk.js.LICENSE.txt",
+    "static/js/2.c289fef0.chunk.js.LICENSE.txt": "/huytran/static/js/2.c289fef0.chunk.js.LICENSE.txt",
     "static/media/about.8729ae3b.jpeg": "/huytran/static/media/about.8729ae3b.jpeg",
     "static/media/avatar.bdc55b61.jpeg": "/huytran/static/media/avatar.bdc55b61.jpeg",
     "static/media/App.scss": "/huytran/static/media/dots.943074de.svg",
@@ -24,9 +24,9 @@
     "static/media/webapp.04a345bc.svg": "/huytran/static/media/webapp.04a345bc.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c3bdfe6a.js",
-    "static/js/2.421e7760.chunk.js",
+    "static/js/runtime-main.27781065.js",
+    "static/js/2.c289fef0.chunk.js",
     "static/css/main.728f932a.chunk.css",
-    "static/js/main.d87e467b.chunk.js"
+    "static/js/main.b869b0e7.chunk.js"
   ]
 }
